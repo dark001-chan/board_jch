@@ -20,6 +20,5 @@ while True:
                   board[1],
                   board[2],
                   board[3])
-    elif menu == "2":
-        
+    
 print("게시판 종료")
